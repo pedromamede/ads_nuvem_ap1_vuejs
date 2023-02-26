@@ -4,8 +4,7 @@ import MinhaApp from './components/MinhaApp.vue'
 
 <template>
   <header>
-    <h1> Unifor - ADS </h1>
-    <h3> Desenvolvimento de software em nuvem</h3>
+    <h3> Unifor - ADS - Desenvolvimento de software em nuvem</h3>
 
     <div class="wrapper">
       <MinhaApp msg="Deu certo!" />
